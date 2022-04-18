@@ -1,6 +1,8 @@
 # Kassie Becker
 
 _Software engineer with background in customer service and technical support<br>
+![image](https://user-images.githubusercontent.com/17421693/163753185-b6c310a1-077f-455a-926b-d7b694c0512d.png)
+
 
 [Email](mailto:kassie.becker@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie) / [Twitter](https://twitter.com/_KassieBecker_) / [Medium](https://medium.com/@kassie.becker)
 

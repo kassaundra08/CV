@@ -72,7 +72,7 @@ Columbus, OH
 
 ## Education
 
-**Software Engineering Certificate<br>
+**Software Engineering Certificate**<br>
 [Flatiron School](https://flatironschool.com/) - (Feb 2022 - Jun 2022)_ <br>
 
 12 credits towards an AS in Computer and Information Science<br>

@@ -20,48 +20,48 @@ _Software engineer with background in customer service and technical support_<br
 
 ## Experience
 
-**Training Coordinator** @ Keno Kozie Services _(May 2020 - Feb 2021)_ <br>
-Columbus, OH
+### **Training Coordinator**  _(May 2020 - Feb 2021)_
+#### Keno Kozie Services - _Columbus, OH_
   - Assisted new analysts with getting acclimated to the Help Desk Analyst role
   - Trained new analysts on client systems and operations
   - Tracked progress of new-hires via Tableau and generated weekly reports with this information
   
-**Help Desk Analyst** @ Keno Kozie Services _(June 2017 - May 2020)_ <br>
-Columbus, OH
+### Help Desk Analyst _(June 2017 - May 2020)_
+#### Keno Kozie Services - _Columbus, OH_
   - Assisted users with hardware/software troubleshooting and IT service requests
   - Escalated issues to next level of support when necessary
   - Followed call trees to ensure IT was notified of high-priority issues in a timely manner
   - Meticulously documented each phone call using several different ticketing systems
   
-**Temp Receptionist** @ Dawson Resources _(Jan 2017 - May 2017)_ <br>
-Columbus, OH
+### Temp Receptionist _(Jan 2017 - May 2017)_
+#### Dawson Resources - _Columbus, OH_
   - Answered and routed incoming phone calls
   - Greeted guests
   - Stocked office and kitchen supplies
   - Distributed mail and packages
   - Performed miscellaneous document processing and clerical work when needed
   
-**Office Manager** @ Melgaard Construction _(Apr 2016 - Nov 2016)_ <br>
-Williston, ND
+### Office Manager _(Apr 2016 - Nov 2016)_
+#### Melgaard Construction - _Williston, ND_
   - Ordered office supplies as needed
   - Typed, formatted, and edited routine memos and other reports
   - Compiled employee hours for payroll
   - Created Work Approvals for jobs completed and sent them out for client signature
   
-**Administrative Assistant** @ Melgaard Construction _(Sept 2014 - Apr 2016)_ <br>
-Williston, ND
+### Administrative Assistant _(Sept 2014 - Apr 2016)_
+#### Melgaard Construction - _Williston, ND_
   - Answered phones using a multi-line phone system
   - Frequent use of photocopier, scanner, fax machine, and other office equipment
   - Assisted project managers with tracking job costs
   - Ensured all sub-contractor work was properly billed out
   
-**Delivery Driver** @ OK Distributing _(Jan 2014 - June 2014)_ <br>
-Williston, ND
+### Delivery Driver _(Jan 2014 - June 2014)_
+#### OK Distributing - _Williston, ND_
   - Staged and delivered merchandise
   - Assisted with receiving shipments
   
-**Telephone Banker** @ Chase Bank _(Sep 2011 - Oct 2013)_ <br>
-Columbus, OH
+### Telephone Banker _(Sep 2011 - Oct 2013)_
+#### Chase Bank - _Columbus, OH_
   - Answered phones in a high call-volume environment
   - Assisted customers with general account inquiries
   - Performed transfers and account maintenance

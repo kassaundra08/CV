@@ -1,12 +1,12 @@
 # Kassie Becker
 
-_Software engineer with background in customer service and technical support<br>
-![image](https://user-images.githubusercontent.com/17421693/163753185-b6c310a1-077f-455a-926b-d7b694c0512d.png)
+_Software engineer with background in customer service and technical support_<br><br>
 
+![image](https://user-images.githubusercontent.com/17421693/163753735-fac3b52f-2153-44dc-b2ad-e8ce0a23173f.png)
 
 [Email](mailto:kassie.becker@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie) / [Twitter](https://twitter.com/_KassieBecker_) / [Medium](https://medium.com/@kassie.becker)
 
-##Skills
+## Skills
 
   - HTML5
   - CSS3
@@ -26,7 +26,7 @@ Columbus, OH
   - Trained new analysts on client systems and operations
   - Tracked progress of new-hires via Tableau and generated weekly reports with this information
   
-**Help Desk Analyst** @ Keno Kozie Services in Columbus, OH _(June 2017 - May 2020)_ <br>
+**Help Desk Analyst** @ Keno Kozie Services _(June 2017 - May 2020)_ <br>
 Columbus, OH
   - Assisted users with hardware/software troubleshooting and IT service requests
   - Escalated issues to next level of support when necessary

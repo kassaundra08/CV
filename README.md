@@ -1,6 +1,6 @@
 # Kassie Becker
 
-_Software engineer with background in customer service and technical support_<br><br>
+_Software engineer with a background in customer service and technical support_<br><br>
 
 ![image](https://user-images.githubusercontent.com/17421693/163753735-fac3b52f-2153-44dc-b2ad-e8ce0a23173f.png)
 
@@ -75,7 +75,7 @@ _Software engineer with background in customer service and technical support_<br
 ## Education
 
 **Software Engineering Certificate**<br>
-[Flatiron School](https://flatironschool.com/) - (Feb 2022 - Jun 2022)_ <br>
+[Flatiron School](https://flatironschool.com/) - _(Feb 2022 - Jun 2022)_ <br>
 
 12 credits towards an AS in Computer and Information Science<br>
 [Columbus State Community College](https://www.cscc.edu/) - Columbus OH, USA _(2017)_

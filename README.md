@@ -4,7 +4,9 @@ _Software engineer with a background in customer service and technical support_<
 
 ![image](https://user-images.githubusercontent.com/17421693/163753735-fac3b52f-2153-44dc-b2ad-e8ce0a23173f.png)
 
-[Email](mailto:kassie.becker@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie) / [Twitter](https://twitter.com/_KassieBecker_) / [Medium](https://medium.com/@kassie.becker)
+✉️ kassie.becker@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie) / [Twitter](https://twitter.com/_KassieBecker_) / [Medium](https://medium.com/@kassie.becker)
 
 ## Skills
 

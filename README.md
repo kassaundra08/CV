@@ -6,7 +6,7 @@ _Software engineer with a background in customer service and technical support_<
 
 ✉️ kassie.becker@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie) / [Twitter](https://twitter.com/_KassieBecker_) / [Medium](https://medium.com/@kassie.becker)
+[LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie)
 
 ## Skills
 

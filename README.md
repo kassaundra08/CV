@@ -8,6 +8,9 @@ _Software engineer with a background in customer service and technical support_<
 
 [LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie)
 
+## Summary
+I haven’t followed a traditional trajectory to software engineering, but I have a lifelong love of computers and a professional background that emphasizes technological proficiency and interpersonal skills. I excel when it comes to collaboration, professionalism, and integrity. I'm looking forward to finding employment somewhere I can continue to expand my programming skills and learn as much as possible about software development! 
+
 ## Skills
 
   - HTML5

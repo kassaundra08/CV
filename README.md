@@ -9,7 +9,7 @@ _Software engineer with a background in customer service and technical support_<
 [LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie)
 
 ## Summary
-I haven’t followed a traditional trajectory to software engineering, but I have a lifelong love of computers and a professional background that emphasizes technological proficiency and interpersonal skills. I excel when it comes to collaboration, professionalism, and integrity. I'm looking forward to finding employment somewhere I can continue to expand my programming skills and learn as much as possible about software development! 
+I haven’t followed a traditional trajectory to software engineering, but I have a lifelong love of computers and a professional background that emphasizes technological proficiency and interpersonal skills. I excel when it comes to collaboration, professionalism, and integrity. I'm looking forward to finding employment somewhere I can build upon my existing knowledge and continue to grow as a software engineer.
 
 ## Skills
 
@@ -19,7 +19,7 @@ I haven’t followed a traditional trajectory to software engineering, but I hav
   - React.js
   - Ruby
   - Rails
-  - Verbal and Written Communication
+  - Excellent Verbal and Written Communication
   - Issue and Resolution Tracking
   - Multitasking and Prioritization
 
@@ -27,7 +27,7 @@ I haven’t followed a traditional trajectory to software engineering, but I hav
 
 ### **Training Coordinator**  _(May 2020 - Feb 2021)_
 #### Keno Kozie Services - _Columbus, OH_
-  - Assisted new analysts with getting acclimated to the Help Desk Analyst role
+  - Assisted new analysts with getting acclimated to the Help Desk role
   - Trained new analysts on client systems and operations
   - Tracked progress of new-hires via Tableau and generated weekly reports with this information
   

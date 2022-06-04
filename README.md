@@ -9,46 +9,45 @@ _Software engineer with a background in customer service and technical support_<
 [LinkedIn](https://www.linkedin.com/in/kassaundra-becker/) / [GitHub](https://github.com/KaiserKassie)
 
 ## Summary
-I haven’t followed a traditional trajectory to software engineering, but I have a lifelong love of computers and a professional background that emphasizes technological proficiency and interpersonal skills. I excel when it comes to collaboration, professionalism, and integrity. I'm looking forward to finding employment somewhere I can build upon my existing knowledge and continue to grow as a software engineer.
+I haven’t followed a traditional trajectory to software engineering, but I have a lifelong love of computers and a professional background that emphasizes technological proficiency and interpersonal skills. I excel when it comes to collaboration, professionalism, and integrity. I'm looking forward to finding employment somewhere I can build upon my existing skills and knowledge and continue to grow as a software engineer.
 
 ## Skills
 
-  - HTML5
-  - CSS3
+  - HTML & CSS
   - Javascript
-  - React.js
-  - Ruby
-  - Rails
+  - React
+  - Ruby on Rails
+  - Full Stack Development
   - Excellent Verbal and Written Communication
-  - Issue and Resolution Tracking
-  - Multitasking and Prioritization
+  - Empathy
+  - Flexibility & Adaptability
+  - Reliability
 
 ## Experience
 
 ### **Training Coordinator**  _(May 2020 - Feb 2021)_
 #### Keno Kozie Services - _Columbus, OH_
-  - Assisted new analysts with getting acclimated to the Help Desk role
-  - Trained new analysts on client systems and operations
-  - Tracked progress of new-hires via Tableau and generated weekly reports with this information
+  - Mentored new hires during their first 6 months as a Help Desk Analyst
+  - Created and implemented individual training plans for new analysts which included general troubleshooting and client systems and operations
+  - Tracked progress of new-hires via Tableau and generated weekly reports on individuals' progress
   
 ### Help Desk Analyst _(June 2017 - May 2020)_
 #### Keno Kozie Services - _Columbus, OH_
-  - Assisted users with hardware/software troubleshooting and IT service requests
-  - Escalated issues to next level of support when necessary
-  - Followed call trees to ensure IT was notified of high-priority issues in a timely manner
+  - Assisted users with hardware and software troubleshooting as well as IT service requests
+  - Engaged in-house IT and escalated issues as necessary
   - Meticulously documented each phone call using several different ticketing systems
   
-### Temp Receptionist _(Jan 2017 - May 2017)_
+### Contract Receptionist _(Jan 2017 - May 2017)_
 #### Dawson Resources - _Columbus, OH_
-  - Answered and routed incoming phone calls
+  - Operated multi-line phone system
   - Greeted guests
-  - Stocked office and kitchen supplies
+  - Coordinated office and kitchen inventory
   - Distributed mail and packages
-  - Performed miscellaneous document processing and clerical work when needed
+  - Performed document processing and clerical work when needed
   
 ### Office Manager _(Apr 2016 - Nov 2016)_
 #### Melgaard Construction - _Williston, ND_
-  - Ordered office supplies as needed
+  - Maintained office supplies and equipment
   - Typed, formatted, and edited routine memos and other reports
   - Compiled employee hours for payroll
   - Created Work Approvals for jobs completed and sent them out for client signature
@@ -68,10 +67,9 @@ I haven’t followed a traditional trajectory to software engineering, but I hav
 ### Telephone Banker _(Sep 2011 - Oct 2013)_
 #### Chase Bank - _Columbus, OH_
   - Answered phones in a high call-volume environment
-  - Assisted customers with general account inquiries
-  - Performed transfers and account maintenance
+  - Assisted customers with general account inquiries and service requests
   - Recommended solutions and provided empathy for customers with complex issues
-  - Provided troubleshooting for online problems
+  - Provided troubleshooting for online banking
 
 ## Projects
 
